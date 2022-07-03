@@ -1,11 +1,14 @@
-h1 {
-    color:brown;
-    text-align:center
+.heading{
+    background-color: darkcyan;
+    width:auto;
+    display:flexbox
+
 }
+
+
 .alpha{
     text-align:center;
     background-color:gray
-
 }
  p{
     color:cyan
@@ -17,9 +20,10 @@ h1 {
     border:5px solid green;
     margin:5px;
     padding:10px
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width:300px;
  }
  .batash {
-    color:green;
+    color:aqua;
     background-color:indianred
- }
+ 
