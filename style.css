@@ -2,3 +2,24 @@ h1 {
     color:brown;
     text-align:center
 }
+.alpha{
+    text-align:center;
+    background-color:gray
+
+}
+ p{
+    color:cyan
+    font-size:30px;
+ }
+ .akash {
+    background-color: yellow;
+    text-align:center;
+    border:5px solid green;
+    margin:5px;
+    padding:10px
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ .batash {
+    color:green;
+    background-color:indianred
+ }
